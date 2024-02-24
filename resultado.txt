@@ -1,0 +1,9 @@
+Matriz:
+[31m0 [0m1 5 4 3 
+1 [31m0 [0m2 5 5 
+4 1 [31m0 [0m2 3 
+2 1 2 [31m0 [0m4 
+2 3 2 4 [31m0 [0m
+Menor caminho percorrido: 9
+Caminho percorrido: 3 1 0 4 2 3
+Tempo de execução: 0.000037 
